@@ -255,7 +255,7 @@ function App() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-card-foreground">
-                  SUPABASE <span className="text-primary">SPY</span>
+                  Space <span className="text-primary">Apollo 11</span>
                 </h1>
                 <div className="flex items-center gap-2 text-sm text-muted-foreground">
                   <span>Creative Intelligence Dashboard</span>
@@ -416,7 +416,7 @@ function App() {
           <div className="text-center text-sm text-muted-foreground">
             <p className="flex items-center justify-center gap-2">
               <Zap className="w-4 h-4 text-primary" />
-              SUPABASE SPY Dashboard - Intelligence Active
+              Space Apollo 11 Dashboard - Intelligence Active
             </p>
             <p className="mt-1">
               {criativos.filter(c => c.salvo).length} criativos salvos • 

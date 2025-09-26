@@ -1,6 +1,6 @@
 # Guia de Instalação e Configuração
 
-Este guia detalha como instalar e configurar o SUPABASE SPY Dashboard em seu ambiente local ou de produção.
+Este guia detalha como instalar e configurar o Space Apollo 11 Dashboard em seu ambiente local ou de produção.
 
 ## Instalação Local
 

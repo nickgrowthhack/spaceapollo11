@@ -1,4 +1,4 @@
-# Guia de Contribuição para o SUPABASE SPY Dashboard
+# Guia de Contribuição para o Space Apollo 11 Dashboard
 
 Ficamos felizes com seu interesse em contribuir! Este guia detalha como você pode ajudar a melhorar o projeto.
 

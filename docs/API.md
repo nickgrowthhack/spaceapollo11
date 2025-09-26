@@ -1,6 +1,6 @@
 # Documentação da API
 
-O SUPABASE SPY Dashboard utiliza várias APIs e serviços para funcionar. Esta documentação detalha como cada serviço é integrado e como você pode estendê-los.
+O Space Apollo 11 Dashboard utiliza várias APIs e serviços para funcionar. Esta documentação detalha como cada serviço é integrado e como você pode estendê-los.
 
 ## Supabase Service
 

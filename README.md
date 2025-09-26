@@ -1,9 +1,9 @@
 '''
-# 🚀 SUPABASE SPY Dashboard
+# 🚀 Space Apollo 11 Dashboard
 
 [![Deploy with Manus.ai](https://img.shields.io/badge/Deploy%20with-Manus.ai-3ecf8e?style=for-the-badge&logo=manus)](https://manus.ai/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**SUPABASE SPY** é um dashboard de inteligência de criativos (Ad Spy) completo, construído com um design moderno inspirado no Supabase, banco de dados real para persistência e um agente de IA integrado para análises profissionais.
+**Space Apollo 11** é um dashboard de inteligência de criativos (Ad Spy) completo, construído com um design moderno inspirado no Supabase, banco de dados real para persistência e um agente de IA integrado para análises profissionais.
 
 ![Dashboard Preview](/public/images/supabase-spy-preview.png)
 
